@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: client.Simulator
+Class-Path: vecmath.jar idw-gpl.jar
+
+
+
